@@ -1,4 +1,4 @@
-### Operations
+## Operations
 
 * Intermediate operation: return a new stream, lazy
 * Terminal operation: produce a result or a side-effect

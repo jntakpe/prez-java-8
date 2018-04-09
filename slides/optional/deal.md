@@ -1,4 +1,5 @@
-Deal with missing values using:
+## Deal with missing values
+
 ```java
 // return a default value if the Optional is empty
 orElse(T);

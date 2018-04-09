@@ -1,4 +1,4 @@
-Sorting a list of String :
+## Sorting a list of String
 
 ```java
 // Java 7

@@ -1,4 +1,4 @@
-### Anything
+## Anything
 
 You can create a Stream from any number of elements or an array using the two following methods:
 

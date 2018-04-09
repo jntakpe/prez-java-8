@@ -1,4 +1,5 @@
-#### Example
+## Example
+
 ```java
 // Java 7
 Calendar cal = Calendar.getInstance();

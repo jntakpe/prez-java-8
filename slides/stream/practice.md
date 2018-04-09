@@ -1,4 +1,4 @@
-### Practice
+## Practice
 
 * Create a list of **Person** (firstName, lastName, email, age)
 * Compute the average age of the mens older than 35

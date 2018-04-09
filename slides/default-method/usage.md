@@ -1,4 +1,4 @@
-### When use default methods ?
+## When use default methods ?
 
 * Useful to enhance existing interfaces in an API without breaking anything
 * Was essential in order to add lambda support to existing Java **Collection**'s

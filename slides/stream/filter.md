@@ -1,4 +1,4 @@
-#### Filter
+## Filter
 
 Return a stream consisting of the elements that match a given predicate
 

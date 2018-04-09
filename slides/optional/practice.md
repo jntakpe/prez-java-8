@@ -1,4 +1,4 @@
-### Practice
+## Practice
 
 Rewrite following method using `Optional`:
 

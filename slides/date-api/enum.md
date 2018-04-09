@@ -1,4 +1,4 @@
-### New Enum's
+## New Enum's
 
 * `java.time.temporal.ChronoUnit`
 * `java.time.DayOfWeek`

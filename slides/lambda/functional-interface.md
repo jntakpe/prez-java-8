@@ -1,4 +1,4 @@
-### Functional interfaces
+## Functional interfaces
 
 * Interface with exactly one **abstract** method
 * Applies to interfaces that were created with previous versions of Java

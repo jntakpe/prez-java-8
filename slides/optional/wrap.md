@@ -1,3 +1,5 @@
+## Wrapping
+
 An Optional wraps a value using:
 
 * `of(x)` for a non-null value

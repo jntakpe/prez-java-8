@@ -1,4 +1,4 @@
-### Instant
+## Instant
 
 * **Instant** measures time starting from the “epoch” (Jan. 1, 1970)
 * Time-zone ignorant

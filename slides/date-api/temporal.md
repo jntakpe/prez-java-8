@@ -1,4 +1,4 @@
-### Temporal Adjusters
+## Temporal Adjusters
 
 * Useful methods to adjust date or time:
 

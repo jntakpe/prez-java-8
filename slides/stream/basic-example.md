@@ -1,5 +1,4 @@
-* Supports the filter / map / reduce pattern
-* Elements in a stream are **lazily** evaluated
+## Example
 
 ```java
 List<String> list = persons.stream()

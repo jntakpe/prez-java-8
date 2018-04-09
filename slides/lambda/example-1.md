@@ -1,3 +1,5 @@
+## A few examples
+
 ```java
 // Function that prefixes a name with @
 Function<String, String> atr = (name) -> {return "@" + name;};

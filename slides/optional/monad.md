@@ -1,3 +1,5 @@
+## Monad
+
 * It's a **monad** because it is a parameterized type (**Optional<T>**) that:
   * Implements a bind operation **flatMat()**
   * Implements a unit function **of()**

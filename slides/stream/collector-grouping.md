@@ -1,4 +1,4 @@
-#### Grouping
+### Grouping
 
 ```java
 // Group by first letter of name

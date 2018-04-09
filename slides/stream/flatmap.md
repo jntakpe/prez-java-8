@@ -1,4 +1,4 @@
-#### FlatMap
+## FlatMap
 
 ```java
 Stream.of(new Developer("polyglot").knows("scala").knows("groovy"),

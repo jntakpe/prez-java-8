@@ -1,4 +1,6 @@
-### So when should one use Optional ? &rarr; Method result
+## Usage
+
+So when should one use Optional ? &rarr; Method result ?
 
 * Use Optional as return type when value can be null
 

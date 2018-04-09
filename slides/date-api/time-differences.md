@@ -1,4 +1,4 @@
-### Time differences
+## Time differences
 
 * Period - **date**-based amount of time (such as "2 years, 3 months and 4 days")
 * Duration - **time**-based amount of time (such as "34.5 seconds")

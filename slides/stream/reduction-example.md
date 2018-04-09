@@ -1,4 +1,4 @@
-Calculate the sum of the members age in a collection :
+## Reduction sum
 
 ```java
 Integer totalAgeReduce = population.stream()

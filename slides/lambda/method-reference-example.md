@@ -1,4 +1,4 @@
-#### Example
+## Method reference example
 
 ```java
 Arrays.sort(populationArray,

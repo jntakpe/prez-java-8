@@ -1,4 +1,4 @@
-#### Collect multiple statistics about a collection
+### Collect multiple statistics about a collection
 
 ```java
 // Compute the count of people, as well as the minimum, maximum, sum, and average of their number of dependents

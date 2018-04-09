@@ -1,4 +1,4 @@
-#### Joining (similar to Apache Commons’ **StringUtil.join**)
+### Joining (similar to Apache Commons’ **StringUtil.join**)
 
 ```java
 String names = persons.stream()

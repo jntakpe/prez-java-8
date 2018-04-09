@@ -1,3 +1,5 @@
+## Mixed functional interface
+
 * An interface can have **one or more** default methods and still be functional
 
 ```java

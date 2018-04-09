@@ -1,4 +1,4 @@
-### Collectors
+## Collectors
 
 * Accumulate elements into a mutable result container (Collection, String, ...)
 * Consists of three things:

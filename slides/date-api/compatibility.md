@@ -1,7 +1,7 @@
-### Backwards Compatibility
+## Backwards Compatibility
 
 * **toInstant()** method to convert existing **Date** and **Calendar** to the new Date-Time API
-* Then use **ofInstant(Insant, ZoneId)** to get a **LocalDateTime**
+* Then use **ofInstant(Instant, ZoneId)** to get a **LocalDateTime**
 
 ```java
 // original Date object

@@ -1,4 +1,4 @@
-#### Simple Collectors
+### Simple Collectors
 
 ```java
 // Accumulate names into a List

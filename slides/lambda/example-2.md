@@ -1,4 +1,4 @@
-Printing out a list of String :
+## Printing out a list of String
 
 ```java
 // Java 7

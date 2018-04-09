@@ -1,4 +1,4 @@
-### Infinite streams
+## Infinite streams
 
 Use the **generate** or **iterate** static methods on Stream:
 

@@ -1,4 +1,5 @@
-### Question
+## Question
+
 What if a class implements two interfaces and both interfaces define a default method with the same signature ?
 ```java
 interface Foo {

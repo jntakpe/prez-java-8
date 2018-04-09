@@ -1,3 +1,5 @@
+## Practice
+
 Imagine `getCurrentServiceContext(...)` returns an `Optional<ServiceContext>`.  
 
 Rewrite following method using `Optional`:

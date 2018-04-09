@@ -1,4 +1,4 @@
-### Practice filter classic
+## Practice filter classic
 
 * Display the name of all the files in the training folder using :
 

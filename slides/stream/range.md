@@ -1,4 +1,4 @@
-### Ranges
+## Ranges
 
 Each primitive Stream (IntStream, DoubleStream, and LongStream) has a corresponding range method:
 

@@ -1,4 +1,4 @@
-### Time zones
+## Time zones
 
 * Represented by `java.time.ZoneId`
 

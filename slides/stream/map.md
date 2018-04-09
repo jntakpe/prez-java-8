@@ -1,4 +1,4 @@
-#### Map
+## Map
 
 Apply a function to the elements of the stream
 

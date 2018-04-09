@@ -1,4 +1,4 @@
-Check that at least one developer knows **Java** language :
+## Reduction boolean
 
 ````java
 boolean atLeastOneKnowsJava = team.stream()

@@ -1,4 +1,5 @@
-Work with Optional's using functional style methods:
+## Optional functional
+
 ```java
 // Executes the given Consumer only if there is a value present (no return value)
 ifPresent(Consumer<? super T> consumer)

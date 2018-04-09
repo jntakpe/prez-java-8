@@ -1,4 +1,4 @@
-#### Partitioning
+### Partitioning
 
 ```java
 // Group by whether or not the developer knows Java
