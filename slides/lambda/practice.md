@@ -7,3 +7,4 @@ new File("/Users/jOSS/dev/dxp/training").listFiles();
 ```
 * Create a class implementing **FileFilter** to display files ending with ".json"
 * Use a anonymous **FileFilter** class to display files ending with ".json"
+* Use a lambda to display files ending with ".json"
