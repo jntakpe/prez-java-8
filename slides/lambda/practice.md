@@ -3,8 +3,8 @@
 * Display the name of all the files in the training folder using :
 
 ```java
-new File("/Users/jOSS/dev/dxp/training").listFiles();
+new File("TRAINING_DIRECTORY").listFiles();
 ```
-* Create a class implementing **FileFilter** to display files ending with ".json"
-* Use a anonymous **FileFilter** class to display files ending with ".json"
-* Use a lambda to display files ending with ".json"
+* Create a class implementing **FileFilter** to display files ending with ".txt"
+* Use a anonymous **FileFilter** class to display files ending with ".txt"
+* Use a lambda to display files ending with ".txt"
